@@ -74,7 +74,7 @@ ROBOTSTXT_OBEY = True
 DOWNLOAD_DELAY = .25
 RANDOMIZE_DOWNLOAD_DELAY = True
 
-# ...
+# ...asdfasdfasdf
 
 # Configure item pipelines
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
